@@ -1,0 +1,28 @@
+# Dependências do Node
+node_modules/
+npm-debug.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env*.local
+
+# Configurações do IDE/Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
