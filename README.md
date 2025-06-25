@@ -82,9 +82,10 @@ Turn the printer off and back on. It should beep 🔊🔊🔊 and connect automa
 
 
 ### Clone repository
+```js
 git clone https://github.com/DIGOARTHUR/Thermal-Printer-and-NodeJS-API.git
 cd Thermal-Printer-and-NodeJS-API
-
+```
 ### Install dependencies
 ```js
 npm install
