@@ -11,10 +11,11 @@ A simple system built with **Node.js** to send orders directly to **XPrinter XR 
 ## 🛠️ XPrinter XR-N160II Setup
 
 <div align="center">
-  
-![1-d7202a6f-removebg-preview](https://github.com/user-attachments/assets/faa23bef-29cd-45dd-9df6-5f16a96dd0b7)
 
 
+
+
+<img width="1280" height="640" alt="Group 110" src="https://github.com/user-attachments/assets/53c85468-44a9-4b12-a81f-132d25451e93" />
 
 
 </div>
