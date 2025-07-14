@@ -34,7 +34,11 @@ If you don't have the software yet, download it here: [Download XPrinter 3.2C](h
 
 
 
-https://github.com/user-attachments/assets/937afa8f-4d85-42a6-b714-287356fc89ee
+
+https://github.com/user-attachments/assets/0275a302-a618-497d-8d0c-f4443e865037
+
+
+
 
 
 
@@ -74,6 +78,10 @@ Turn the printer off and back on. It should beep 🔊🔊🔊 and connect automa
 ---
 
 
+
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -104,6 +112,14 @@ node index.js
 ```js
 http://localhost:3000/imprimir
 ```
+
+### Print output in XPrinter
+
+
+
+https://github.com/user-attachments/assets/eade2199-d424-4e50-b6e9-e0cb312767bf
+
+
 
 <br> 
 
